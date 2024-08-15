@@ -58,6 +58,6 @@ function duasListas(a, b){
             return 'Lista válida!'
         }
     }
-    return "Valores não permitidos encontrados"
+    return "Valores não permitidos dddddd encontrados"
 }
 console.log(duasListas(listA, listB))
